@@ -1,0 +1,23 @@
+{
+	"actions": [
+		{
+			"id": "bear",
+			"appName": "Bear",
+			"actionTitle": "Create a note in Bear",
+			"actionQueries": [
+				"bear",
+				"note"
+			],
+			"urlTemplate": {
+				"scheme": "bear",
+				"host": "x-callback-url",
+				"path": "/create",
+				"queryItems": {
+					"title": "%(sender): %(subject)",
+					"tags": "email",
+					"text": "%(textFull)"
+				}
+			}
+		}
+	]
+}

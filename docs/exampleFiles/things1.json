@@ -1,0 +1,26 @@
+{
+	"actions": [
+		{
+			"id": "things",
+			"appName": "Things",
+			"actionTitle": "Create a to-do in Things",
+			"actionQueries": [
+				"things"
+			],
+			"urlTemplate": {
+				"scheme": "things",
+				"host": "",
+				"path": "/add",
+				"queryItems": {
+					"show-quick-entry": "true",
+					"notes": [
+						"Referencing message from %(sender) \n\n",
+        		"Subject: \n%(subject)\n\n",
+        		"Open the message in Mail Pilot: \n%(openMessageUrl)\n\n",
+        		"Preview: \n%(textPreview)..."
+					]
+				}
+			}
+		}
+	]
+}
