@@ -67,7 +67,7 @@ Want to just dive in and start tinkering? If you're using the most recent Mail P
 
 6. Now, you can tinker. This example runs the `add` command in Things 3, but you can look up the URL schemes of your favorite apps and modify this integration to work with them.
 
-?> **Made something cool?** Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request to include them on our examples page, or simply email them to us at `founders@mindsense.co`, and we'll add them here.
+?> **Made something cool?** Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request [to this repo](https://github.com/Mindsense/Mail-Pilot-Support)'s `docs/examples.md` file, or email them to us at `founders@mindsense.co`.
 
 ?> **Want a simpler way to get started?** Stay tuned; we're on the very first release of Action integrations now. In the future, we will include new ways to find, enable, customize, and create Action integrations.
 
@@ -673,7 +673,7 @@ You could create shortcuts that allow you to type even less to get the results y
 
 ## Community Example & pre-built integrations
 
-Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request to include them here, or simply email them to us at `founders@mindsense.co`, and we'll add them here.
+Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request [to this repo](https://github.com/Mindsense/Mail-Pilot-Support)'s `docs/examples.md` file, or email them to us at `founders@mindsense.co`.
 
 ## Troubleshooting
 

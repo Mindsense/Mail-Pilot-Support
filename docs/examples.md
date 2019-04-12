@@ -1,6 +1,6 @@
 # Community example & pre-built integrations
 
-Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request to include them here, or simply email them to us at `founders@mindsense.co`, and we'll add them here.
+Whether you've made personal Action integrations for your own workflow that may be a source of inspiration to others, or pre-built integrations that can be distributed to other users, be sure to submit a pull request [to this repo](https://github.com/Mindsense/Mail-Pilot-Support)'s `docs/examples.md` file, or email them to us at `founders@mindsense.co`.
 
 If you want to submit a pull request with your example or pre-build integration, here is an example template you can use to add it to this page:
 
