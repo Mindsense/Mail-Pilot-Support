@@ -26,12 +26,12 @@ Here are some things you can do with Action integrations:
 
 ## Quick start
 
-Want to just dive in and start tinkering? If you're using the most recent Mail Pilot 3 beta build, follow these steps to get started.
+Want to just dive in and start tinkering? Follow these steps to get started.
 
-1. Open Finder and navigate to `~/Library/Application Support/com.mindsensehq.Mail-Pilot-HL/` (you can do this quickly in Finder by hitting `Command + Shift + G` or clicking `Go > Go to Folder...` and pasting in this folder path).
+1. Open Finder and navigate to `~/Library/Application Support/com.mindsensehq.Mail-Pilot-DE/` (you can do this quickly in Finder by hitting `Command + Shift + G` or clicking `Go > Go to Folder...` and pasting in this folder path). _For Mail Pilot Classic, formerly called Mail Pilot 3, the path is `~/Library/Application Support/com.mindsensehq.Mail-Pilot-HL/`._
 2. Create a new folder called `integrations`.
 3. Create a JSON file in the new `integrations` folder. You can name it anything you want, but for the sake of this example, I'll assume you've called it `actions.json`.
-4. In your new file, `~/Library/Application Support/com.mindsensehq.Mail-Pilot-HL/integrations/actions.json`, paste the following contents:
+4. In your new file, `~/Library/Application Support/com.mindsensehq.Mail-Pilot-DE/integrations/actions.json`, paste the following contents:
 
 ```json
 {
@@ -353,8 +353,8 @@ There are template variables which can be used in `queryItems` string values whi
 
 Action integration JSON files are stored in:
 
-* For Mail Pilot 3: <br />`~/Library/Application Support/com.mindsensehq.Mail-Pilot-HL/integrations/`
-* For Mail Pilot Discovery Edition: <br />`~/Library/Application Support/com.mindsensehq.Mail-Pilot-DE/integrations/`
+* For the new Mail Pilot (formerly called Mail Pilot Discovery Edition): <br />`~/Library/Application Support/com.mindsensehq.Mail-Pilot-DE/integrations/`
+* For Mail Pilot Classic (formerly called Mail Pilot 3): <br />`~/Library/Application Support/com.mindsensehq.Mail-Pilot-HL/integrations/`
 
 While each integration file can have as many integrations in it as you would like, you can also add as many separate integration files to your `integrations/` directory as you would like.
 
